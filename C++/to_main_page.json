@@ -1,0 +1,12 @@
+{
+  "response": {
+    "text": "текст",
+    "end_session": false,
+    "buttons": [
+      {
+        "title": "вернуться к начальным кнопкам" 
+      }
+    ]
+  },
+  "version": "1.0"
+}
