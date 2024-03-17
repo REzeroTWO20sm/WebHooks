@@ -19,4 +19,4 @@
   клиентское туда же, которое постоянно слушает этот сервер и записывает то, 
   что приходит, а в это время backend на <strong style="color: blue">C++</strong> отправляет данные на туда, 
 
-![Govno](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODk0ZDZhZWVtMWczOTAzaHpqYm11ZWplcHVrdTc2Nmk0M25lOGxvZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7bug2wkdhpf7kbFS/giphy.gif)
+![Govno](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODk0ZDZhZWVtMWczOTAzaHpqYm11ZWplcHVrdTc2Nmk0M25lOGxvZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7bug2wkdhpf7kbFS/giphy.gif)# WebHooks
